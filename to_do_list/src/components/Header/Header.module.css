@@ -1,0 +1,10 @@
+.root{
+    height: 90px;
+    font-size: 50px;
+    color: rgb(161, 255, 224);
+    background-color: rgb(47, 72, 216);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 4mm ridge rgba(28, 25, 160, 0.6);
+    font-family: 'Playfair Display', serif;}
