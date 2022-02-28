@@ -6,5 +6,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 4mm ridge rgba(28, 25, 160, 0.6);
-    font-family: 'Playfair Display', serif;}
+    border: 4mm ridge rgba(67, 65, 226, 0.6);
+    font-family: 'Playfair Display', serif;
+}

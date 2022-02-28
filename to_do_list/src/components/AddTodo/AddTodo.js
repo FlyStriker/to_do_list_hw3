@@ -10,14 +10,16 @@ function AddTodo ({todo , setTodo}){
 
 
      function saveTodo(){
-         setTodo(
+         if(value) {
+             setTodo(
       [...todo, {
           id: nanoid(),
           title: value,
           status : true
       }]
   )
-  setValue('')
+  setValue('') 
+ }       
 }
 
 
